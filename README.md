@@ -1,2 +1,17 @@
-# spam-detector-ai
-A Machine Learning-based spam message detector built with Python that classifies messages as spam or safe using Naive Bayes.
+Spam Message Detector created by Fazal.
+
+This is a simple AI project that detects whether a message is spam or safe using Machine Learning.
+
+## Features:
+- Spam/Safe classification
+- Dataset analysis
+- User input system
+
+## Technologies:
+- Python
+- Pandas
+- Scikit-learn
+
+## How to run:
+pip install pandas scikit-learn
+python main.py
